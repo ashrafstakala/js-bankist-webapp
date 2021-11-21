@@ -6,4 +6,4 @@ User logins:
 1. username: js, password: 1111
 2. username: jd, password: 2222
 
-Visit >> https://ashrafstakala.github.io/js-bankist-webapp
+https://bankist.web.app/
